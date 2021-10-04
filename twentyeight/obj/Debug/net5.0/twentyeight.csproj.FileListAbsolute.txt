@@ -1,0 +1,16 @@
+C:\Users\Yura\source\repos\lab2\twentyeight\bin\Debug\net5.0\twentyeight.exe
+C:\Users\Yura\source\repos\lab2\twentyeight\bin\Debug\net5.0\twentyeight.deps.json
+C:\Users\Yura\source\repos\lab2\twentyeight\bin\Debug\net5.0\twentyeight.runtimeconfig.json
+C:\Users\Yura\source\repos\lab2\twentyeight\bin\Debug\net5.0\twentyeight.runtimeconfig.dev.json
+C:\Users\Yura\source\repos\lab2\twentyeight\bin\Debug\net5.0\twentyeight.dll
+C:\Users\Yura\source\repos\lab2\twentyeight\bin\Debug\net5.0\ref\twentyeight.dll
+C:\Users\Yura\source\repos\lab2\twentyeight\bin\Debug\net5.0\twentyeight.pdb
+C:\Users\Yura\source\repos\lab2\twentyeight\obj\Debug\net5.0\twentyeight.csproj.AssemblyReference.cache
+C:\Users\Yura\source\repos\lab2\twentyeight\obj\Debug\net5.0\twentyeight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yura\source\repos\lab2\twentyeight\obj\Debug\net5.0\twentyeight.AssemblyInfoInputs.cache
+C:\Users\Yura\source\repos\lab2\twentyeight\obj\Debug\net5.0\twentyeight.AssemblyInfo.cs
+C:\Users\Yura\source\repos\lab2\twentyeight\obj\Debug\net5.0\twentyeight.csproj.CoreCompileInputs.cache
+C:\Users\Yura\source\repos\lab2\twentyeight\obj\Debug\net5.0\twentyeight.dll
+C:\Users\Yura\source\repos\lab2\twentyeight\obj\Debug\net5.0\ref\twentyeight.dll
+C:\Users\Yura\source\repos\lab2\twentyeight\obj\Debug\net5.0\twentyeight.pdb
+C:\Users\Yura\source\repos\lab2\twentyeight\obj\Debug\net5.0\twentyeight.genruntimeconfig.cache

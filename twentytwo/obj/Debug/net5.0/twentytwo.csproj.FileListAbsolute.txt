@@ -1,0 +1,16 @@
+C:\Users\Yura\source\repos\lab2\twentytwo\obj\Debug\net5.0\twentytwo.csproj.AssemblyReference.cache
+C:\Users\Yura\source\repos\lab2\twentytwo\obj\Debug\net5.0\twentytwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yura\source\repos\lab2\twentytwo\obj\Debug\net5.0\twentytwo.AssemblyInfoInputs.cache
+C:\Users\Yura\source\repos\lab2\twentytwo\obj\Debug\net5.0\twentytwo.AssemblyInfo.cs
+C:\Users\Yura\source\repos\lab2\twentytwo\obj\Debug\net5.0\twentytwo.csproj.CoreCompileInputs.cache
+C:\Users\Yura\source\repos\lab2\twentytwo\bin\Debug\net5.0\twentytwo.exe
+C:\Users\Yura\source\repos\lab2\twentytwo\bin\Debug\net5.0\twentytwo.deps.json
+C:\Users\Yura\source\repos\lab2\twentytwo\bin\Debug\net5.0\twentytwo.runtimeconfig.json
+C:\Users\Yura\source\repos\lab2\twentytwo\bin\Debug\net5.0\twentytwo.runtimeconfig.dev.json
+C:\Users\Yura\source\repos\lab2\twentytwo\bin\Debug\net5.0\twentytwo.dll
+C:\Users\Yura\source\repos\lab2\twentytwo\bin\Debug\net5.0\ref\twentytwo.dll
+C:\Users\Yura\source\repos\lab2\twentytwo\bin\Debug\net5.0\twentytwo.pdb
+C:\Users\Yura\source\repos\lab2\twentytwo\obj\Debug\net5.0\twentytwo.dll
+C:\Users\Yura\source\repos\lab2\twentytwo\obj\Debug\net5.0\ref\twentytwo.dll
+C:\Users\Yura\source\repos\lab2\twentytwo\obj\Debug\net5.0\twentytwo.pdb
+C:\Users\Yura\source\repos\lab2\twentytwo\obj\Debug\net5.0\twentytwo.genruntimeconfig.cache
