@@ -1,0 +1,15 @@
+C:\Users\Yura\source\repos\lab2\fourty\bin\Debug\net5.0\fourty.exe
+C:\Users\Yura\source\repos\lab2\fourty\bin\Debug\net5.0\fourty.deps.json
+C:\Users\Yura\source\repos\lab2\fourty\bin\Debug\net5.0\fourty.runtimeconfig.json
+C:\Users\Yura\source\repos\lab2\fourty\bin\Debug\net5.0\fourty.runtimeconfig.dev.json
+C:\Users\Yura\source\repos\lab2\fourty\bin\Debug\net5.0\fourty.dll
+C:\Users\Yura\source\repos\lab2\fourty\bin\Debug\net5.0\ref\fourty.dll
+C:\Users\Yura\source\repos\lab2\fourty\bin\Debug\net5.0\fourty.pdb
+C:\Users\Yura\source\repos\lab2\fourty\obj\Debug\net5.0\fourty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yura\source\repos\lab2\fourty\obj\Debug\net5.0\fourty.AssemblyInfoInputs.cache
+C:\Users\Yura\source\repos\lab2\fourty\obj\Debug\net5.0\fourty.AssemblyInfo.cs
+C:\Users\Yura\source\repos\lab2\fourty\obj\Debug\net5.0\fourty.csproj.CoreCompileInputs.cache
+C:\Users\Yura\source\repos\lab2\fourty\obj\Debug\net5.0\fourty.dll
+C:\Users\Yura\source\repos\lab2\fourty\obj\Debug\net5.0\ref\fourty.dll
+C:\Users\Yura\source\repos\lab2\fourty\obj\Debug\net5.0\fourty.pdb
+C:\Users\Yura\source\repos\lab2\fourty\obj\Debug\net5.0\fourty.genruntimeconfig.cache
