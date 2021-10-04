@@ -1,0 +1,16 @@
+C:\Users\Yura\source\repos\lab2\thirtyfour\bin\Debug\net5.0\thirtyfour.exe
+C:\Users\Yura\source\repos\lab2\thirtyfour\bin\Debug\net5.0\thirtyfour.deps.json
+C:\Users\Yura\source\repos\lab2\thirtyfour\bin\Debug\net5.0\thirtyfour.runtimeconfig.json
+C:\Users\Yura\source\repos\lab2\thirtyfour\bin\Debug\net5.0\thirtyfour.runtimeconfig.dev.json
+C:\Users\Yura\source\repos\lab2\thirtyfour\bin\Debug\net5.0\thirtyfour.dll
+C:\Users\Yura\source\repos\lab2\thirtyfour\bin\Debug\net5.0\ref\thirtyfour.dll
+C:\Users\Yura\source\repos\lab2\thirtyfour\bin\Debug\net5.0\thirtyfour.pdb
+C:\Users\Yura\source\repos\lab2\thirtyfour\obj\Debug\net5.0\thirtyfour.csproj.AssemblyReference.cache
+C:\Users\Yura\source\repos\lab2\thirtyfour\obj\Debug\net5.0\thirtyfour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yura\source\repos\lab2\thirtyfour\obj\Debug\net5.0\thirtyfour.AssemblyInfoInputs.cache
+C:\Users\Yura\source\repos\lab2\thirtyfour\obj\Debug\net5.0\thirtyfour.AssemblyInfo.cs
+C:\Users\Yura\source\repos\lab2\thirtyfour\obj\Debug\net5.0\thirtyfour.csproj.CoreCompileInputs.cache
+C:\Users\Yura\source\repos\lab2\thirtyfour\obj\Debug\net5.0\thirtyfour.dll
+C:\Users\Yura\source\repos\lab2\thirtyfour\obj\Debug\net5.0\ref\thirtyfour.dll
+C:\Users\Yura\source\repos\lab2\thirtyfour\obj\Debug\net5.0\thirtyfour.pdb
+C:\Users\Yura\source\repos\lab2\thirtyfour\obj\Debug\net5.0\thirtyfour.genruntimeconfig.cache
